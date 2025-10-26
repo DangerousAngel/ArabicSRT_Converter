@@ -11,4 +11,4 @@ A simple Python script to convert text files from Windows-1256 encoding to UTF-8
 ## Usage
 
 ```bash
-python converter.py input_file.txt
+python converter.py subtitles.srt
