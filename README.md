@@ -13,7 +13,7 @@ A simple Python script to convert text files from Windows-1256 encoding to UTF-8
 
 ### Convert a specific file by passing the filename as an argument:
 ```bash
-python converter.py "filename.srt"
+python "Arabic Text Encoding Converter.py" "filename.srt"
 ```
 ### Run without arguments to get interactive options:
 Choose an option:
