@@ -20,5 +20,5 @@ Choose an option:
 a - Convert all .srt files in the current directory
 s - Convert a single .srt file
 
-##About
-DangerousAngel[https://linktr.ee/DangerousAngel]
+## About
+(DangerousAngel)[https://linktr.ee/DangerousAngel]
